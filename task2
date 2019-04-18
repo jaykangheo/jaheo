@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <h2> hello</h2>
+  <body>
+    <script type="text/javascript">
+      
+      var result = Android.getDate(flag);
+      document.write(result);
+      
+      
+      
+      
+    </script>
+    
+    
+  </body>
+</html>
